@@ -1,0 +1,20 @@
+Scene: Untitled
+Entities:
+  - Entity: 251584
+    TagComponent:
+      Tag: PlayerComp
+    TransformComponent:
+      Position: [-0.100000001, 1.10000002, 0.400000006]
+      Rotation: [49.2999992, 28.3999996, 23.2999992]
+      Scale: [1.20000005, 1.10000002, 2.4000001]
+    ScriptComponent:
+      Behavior: Player
+  - Entity: 191072
+    TagComponent:
+      Tag: ExemploComponente
+    TransformComponent:
+      Position: [0, 0, 0]
+      Rotation: [0, 0, 0]
+      Scale: [1, 1, 1]
+    ScriptComponent:
+      Behavior: Example
